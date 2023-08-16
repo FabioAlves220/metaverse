@@ -1,3 +1,5 @@
+/* eslint-disable lines-around-directive */
+/* eslint-disable quotes */
 "use client";
 
 import { useState } from "react";

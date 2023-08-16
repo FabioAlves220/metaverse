@@ -1,3 +1,6 @@
+/* eslint-disable quotes */
+/* eslint-disable lines-around-directive */
+// eslint-disable-next-line quotes
 "use client";
 
 import { motion } from "framer-motion";

@@ -1,3 +1,4 @@
+/* eslint-disable quotes */
 import styles from "../styles";
 
 const StartSteps = ({ number, text }) => (
